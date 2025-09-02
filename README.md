@@ -7,10 +7,15 @@ Power BI
 📌 Objective of the Analysis:
 
 The project aims to provide an interactive visual representation of outpatient clinic data for the first quarter of 2025 by:
+
 Analyzing patient distribution by gender and nationality.
+
 Highlighting visit volumes across cities.
+
 Analyzing visits by different medical departments.
+
 Tracking changes in the number of visits monthly.
+
 Showing differences between Saudi and non-Saudi patients by gender.
 
 📊 Some Results:
