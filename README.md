@@ -3,6 +3,7 @@ Over the past period, I worked on my analytical project for outpatient clinic da
 
 🛠 Tools Used
 Power BI
+
 📌 Objective of the Analysis:
 
 The project aims to provide an interactive visual representation of outpatient clinic data for the first quarter of 2025 by:
