@@ -16,9 +16,13 @@ Showing differences between Saudi and non-Saudi patients by gender.
 📊 Some Results:
 
 Total visits in Q1: 228,000 visits.
+
 City with the highest number of patients: Riyadh.
+
 Some departments recorded higher visits than others, such as Oncology.
+
 Percentage of Saudi patients is higher compared to non-Saudis.
+
 Females constitute the largest portion of total patients.
 
 💡 As an important practical experience, I learned through this project:
