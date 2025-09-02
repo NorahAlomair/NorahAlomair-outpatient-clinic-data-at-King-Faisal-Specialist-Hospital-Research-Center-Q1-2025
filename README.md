@@ -31,9 +31,13 @@ Percentage of Saudi patients is higher compared to non-Saudis.
 Females constitute the largest portion of total patients.
 
 💡 As an important practical experience, I learned through this project:
+
 Importing data from multiple files and merging them into a single model.
+
 Cleaning and processing data using Power Query.
+
 Using DAX for calculations.
+
 Designing interactive visual interfaces that facilitate reading and support decision-making.
 
 📁 Data Source: https://open.data.gov.sa
